@@ -11,5 +11,8 @@
 
 ## Dependency
 The 'visualizer.py' Python File requires VTK and Biopython <br>
-<b>pip install vtk</b><br>
-<b>pip install biopython</b>
+<b>- pip install vtk</b><br>
+<b>- pip install biopython</b>
+
+## NOTE
+Please create folder named 'lig' in the current directory . This folder will intake the HETATM files

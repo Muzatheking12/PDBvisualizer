@@ -10,7 +10,7 @@
 <li>IONS are Spheres in GREEN colour can be changed accordingly</li>
 
 ## Dependency
-The 'visualizer.py' Python File requires VTK and Biopython <br>
+The 'visualize.py' Python File requires VTK and Biopython <br>
 <b>- pip install vtk</b><br>
 <b>- pip install biopython</b>
 

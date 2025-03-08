@@ -10,6 +10,6 @@ Generate 3D- Ribbon visualization of PDB File with VTK which can be incorporated
 <li>IONS are Spheres in GREEN colour can be changed accordingly</li>
 
 ## Dependency
-The Python File requires VTK and Biopython <br>
+The 'visualizer.py' Python File requires VTK and Biopython <br>
 <b>pip install vtk</b><br>
 <b>pip install biopython</b>
